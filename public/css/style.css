@@ -1,14 +1,16 @@
 * { box-sizing: border-box; }
 body {
-  /* background-color: #333; */
+  background-color: #333;
   /* background-color: #77dd86; */
   font-family: 'Roboto', sans-serif;
   font-size: 1.1rem;
 }
 svg#logo {
-  height: 350px;
+  height: 400px;
   display: block;
-  margin: 0 auto;
+  margin: 20px auto 10px;
+  background-color: white;
+  border-radius: 6px;
 }
 header {
   max-width: 500px;
@@ -22,9 +24,18 @@ header a {
   text-decoration: none;
   color: inherit;
 }
-header nav a {
-  padding: 3px 8px;
-  /* background-color: whitesmoke; */
+nav {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+nav a {
+  padding: 5px 10px;
+  margin: 0 10px;
+  background-color: #eaeaea;
+  font-size: 1.2rem;
+  font-weight: 500;
+  border-radius: 5px;
 }
 a.logo img {
   height: 40px;
