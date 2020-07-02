@@ -6,7 +6,8 @@ body {
   font-size: 1.1rem;
 }
 svg#logo {
-  height: 400px;
+  max-height: 400px;
+  max-width: 400px;
   display: block;
   margin: 20px auto 10px;
   background-color: white;
