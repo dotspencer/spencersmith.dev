@@ -5,11 +5,8 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 1.1rem;
 }
-svg#logo {
-  max-height: 400px;
-  max-width: 400px;
+#logo {
   display: block;
-  margin: 20px auto 10px;
   background-color: white;
   border-radius: 6px;
 }
@@ -31,13 +28,53 @@ nav {
   justify-content: center;
 }
 nav a {
-  padding: 5px 10px;
-  margin: 0 10px;
+  padding: 10px 15px;
+  margin: 0 8px;
   background-color: #eaeaea;
   font-size: 1.2rem;
   font-weight: 500;
   border-radius: 5px;
+  color: #222;
+  transition: all 0.15s;
 }
+nav a:nth-child(1) { background-color: rgb(255, 200, 70); }
+nav a:nth-child(1):hover { background-color: rgb(228, 179, 63); }
+nav a:nth-child(2) { background-color: rgb(124, 200, 152); }
+nav a:nth-child(2):hover { background-color: rgb(102, 165, 124); }
+nav a:nth-child(3) { background-color: rgb(1, 200, 230); }
+nav a:nth-child(3):hover { background-color: rgb(1, 177, 204); }
 a.logo img {
   height: 40px;
+}
+.logo-wrap {
+  position: relative;
+  max-height: 400px;
+  max-width: 400px;
+  margin: 20px auto 10px;
+}
+.overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #313131ad;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: all 0.15s;
+  cursor: pointer;
+}
+.overlay:hover {
+  opacity: 1;
+}
+.overlay img {
+  height: 70px;
+  opacity: 0.8;
+  transform: rotate(0);
+  transition: all 0.2s;
+}
+.overlay:hover img {
+  transform: rotate(-30deg);
 }
