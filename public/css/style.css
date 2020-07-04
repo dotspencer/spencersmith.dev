@@ -78,3 +78,34 @@ a.logo img {
 .overlay:hover img {
   transform: rotate(-30deg);
 }
+.content {
+  max-width: 500px;
+  margin: 0 auto;
+}
+h2 {
+  color: white;
+  font-weight: 200;
+  font-size: 1.5rem;
+}
+.article {
+  display: block;
+  background-color: white;
+  color: #222;
+  padding: 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  transform: all 0.2s;
+}
+.article + .article {
+  margin-top: 15px;
+}
+.article:hover, .article.focus {
+  opacity: 0.9;
+}
+.article .title {
+  font-weight: 500;
+}
+.article .preview {
+  margin-top: 10px;
+  font-size: 1rem;
+}
