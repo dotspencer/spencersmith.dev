@@ -80,32 +80,38 @@ a.logo img {
 }
 .content {
   max-width: 500px;
-  margin: 0 auto;
+  margin: 40px auto 10px;
 }
 h2 {
   color: white;
-  font-weight: 200;
+  font-weight: 500;
   font-size: 1.5rem;
+  letter-spacing: 0.25px;
 }
 .article {
   display: block;
-  background-color: white;
-  color: #222;
+  background-color: #484848;
+  color: white;
   padding: 15px;
   border-radius: 5px;
   text-decoration: none;
-  transform: all 0.2s;
+  transform: translateX(0px);
+  transition: all 0.2s;
 }
 .article + .article {
   margin-top: 15px;
 }
-.article:hover, .article.focus {
-  opacity: 0.9;
+.article:hover, .article:focus {
+  outline: none;
+  background-color: #505050;
+  transform: translateX(5px);
 }
 .article .title {
   font-weight: 500;
+  color: #fdc847;
 }
 .article .preview {
   margin-top: 10px;
   font-size: 1rem;
+  line-height: 1.25rem;
 }
