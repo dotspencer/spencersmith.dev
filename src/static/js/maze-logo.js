@@ -104,7 +104,7 @@ async function go() {
     for (let i = 0; i < neighbors.length; i++) {
       const next = neighbors[i];
       if (!visited[next]) {
-        tree.push([index, next]); // add pair to tree
+        tree.push([index, next, dist]); // add pair to tree
         explore(next, dist + 1);
       }
     }
@@ -180,9 +180,10 @@ async function go() {
       dest.y = yStart + dest.column * ySpace;
 
       /* ctx.beginPath(); */
-      const r = 255 - ((255 / tree.length) * i);
+      const depth = pair[2];
+      const r = 255 - ((255 / longestDist) * depth);
       const g = 200;
-      const b = (160 / (tree.length)) * i + 70;
+      const b = (160 / (longestDist)) * depth + 70;
       addPath(src, dest, `rgb(${r},${g},${b})`);
 
       await new Promise(resolve => setTimeout(resolve, DELAY));
