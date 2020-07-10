@@ -36,6 +36,7 @@ async function go() {
   // add name
   const colorName = '#eaeaea';
   const name = [
+    // [{x:17,y:5},{x:17,y:6},{x:17,y:7}], // I
     [{x:10,y:10}, {x:9,y:10}, {x:9,y:11}, {x:10,y:11}, {x:10,y:12}, {x:9,y:12}], // S
     [{x:11,y:10}, {x:11,y:12}, {x:11,y:10}, {x:12,y:10}, {x:12,y:11}, {x:11,y:11}], // P
     [{x:14,y:10},{x:13,y:10},{x:13,y:12},{x:14,y:12},{x:13,y:12},{x:13,y:11},{x:14,y:11}], // E
@@ -181,7 +182,7 @@ async function go() {
       dest.y = yStart + dest.column * ySpace;
 
       const colorStart = [253, 200, 71]; // goldish
-      const colorEnd = [28, 200, 213]; // blueish
+      const colorEnd = [20, 200, 230]; // blueish
 
       const depth = pair[2];
       const percentDepth = depth / longestDist;

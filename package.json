@@ -15,6 +15,9 @@
     "url": "https://github.com/dotspencer/spencersmith.dev/issues"
   },
   "homepage": "https://github.com/dotspencer/spencersmith.dev#readme",
-  "dependencies": {},
+  "dependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  },
   "devDependencies": {}
 }
