@@ -34,6 +34,7 @@ async function go() {
   const visited = {};
 
   // add name
+  const colorName = '#eaeaea';
   const name = [
     [{x:10,y:10}, {x:9,y:10}, {x:9,y:11}, {x:10,y:11}, {x:10,y:12}, {x:9,y:12}], // S
     [{x:11,y:10}, {x:11,y:12}, {x:11,y:10}, {x:12,y:10}, {x:12,y:11}, {x:11,y:11}], // P
@@ -71,7 +72,7 @@ async function go() {
       src.y = yStart + src.y * ySpace;
       dest.x = xStart + dest.x * xSpace;
       dest.y = yStart + dest.y * ySpace;
-      addPath(src, dest, '#222');
+      addPath(src, dest, colorName);
       await new Promise(resolve => setTimeout(resolve, DELAY));
     }
   }

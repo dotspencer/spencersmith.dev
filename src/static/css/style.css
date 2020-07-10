@@ -7,7 +7,7 @@ body {
 }
 #logo {
   display: block;
-  background-color: white;
+  /* background-color: white; */
   border-radius: 6px;
 }
 header {
