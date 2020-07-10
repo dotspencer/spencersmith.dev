@@ -51,6 +51,8 @@ a.logo img {
   max-height: 400px;
   max-width: 400px;
   margin: 20px auto 10px;
+  border-radius: 8px;
+  overflow: hidden;
 }
 .overlay {
   position: absolute;
