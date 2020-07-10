@@ -179,11 +179,15 @@ async function go() {
       dest.x = xStart + dest.row * xSpace;
       dest.y = yStart + dest.column * ySpace;
 
-      /* ctx.beginPath(); */
+      const colorStart = [253, 200, 71]; // goldish
+      const colorEnd = [28, 200, 213]; // blueish
+
       const depth = pair[2];
-      const r = 255 - ((255 / longestDist) * depth);
-      const g = 200;
-      const b = (160 / (longestDist)) * depth + 70;
+      const percentDepth = depth / longestDist;
+
+      const r = colorStart[0] + ((colorEnd[0] - colorStart[0]) * percentDepth);
+      const g = colorStart[1] + ((colorEnd[1] - colorStart[1]) * percentDepth);
+      const b = colorStart[2] + ((colorEnd[2] - colorStart[2]) * percentDepth);
       addPath(src, dest, `rgb(${r},${g},${b})`);
 
       await new Promise(resolve => setTimeout(resolve, DELAY));
