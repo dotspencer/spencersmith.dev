@@ -4,7 +4,7 @@ module.exports = {
   entry: './src/app.js',
   output: {
     path: __dirname + 'dist',
-    filename: 'js/bundle.js'
+    filename: 'js/bundle.js',
   },
   module: {
     rules: [
@@ -12,8 +12,15 @@ module.exports = {
         test: /.js$/,
         use: 'babel-loader',
         exclude: /node_modules/,
-      }
-    ]
+      },
+    ],
+  },
+  resolve: {
+    symlinks: false,
+    modules: [
+      __dirname + '/src',
+      'node_modules',
+    ],
   },
   // devServer: {
   //   publicPath: '/',

@@ -1,9 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import LogoMaze from 'components/logo-maze';
+
 const App = () => {
   return (
-    <p>app</p>
+    <div>
+      <LogoMaze />
+    </div>
   );
 };
 

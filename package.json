@@ -32,6 +32,11 @@
     "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.5.0",
+    "eslint-import-resolver-webpack": "^0.12.2",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-react": "^7.20.5",
     "webpack-dev-server": "^3.11.0"
   }
 }

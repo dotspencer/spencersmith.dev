@@ -1,0 +1,42 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaVersion": 2017,
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "parser": "babel-eslint",
+  "plugins": [
+    "react",
+    "import"
+  ],
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "rules": {
+    "no-undef": "error",
+    "no-console": "off",
+    "eqeqeq": ["error", "smart"],
+    "space-before-blocks": "error",
+    "react/prop-types": "off",
+    "no-var": "error",
+    "no-const-assign": "error",
+    "no-use-before-define": ["error", { "functions": false }],
+    "no-unused-vars": "error",
+    "semi": "error",
+    "comma-dangle": ["error", "always-multiline"],
+    "react/jsx-uses-react": "error",
+    "react/jsx-uses-vars": "error",
+    "react/jsx-no-undef": "error",
+    "import/no-unresolved": 2,
+    "import/named": "error",
+    "object-curly-spacing": ["error", "always"]
+  },
+  "settings": {
+    "import/resolver": "eslint-import-resolver-webpack"
+  }
+}
