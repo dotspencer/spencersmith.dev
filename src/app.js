@@ -1,11 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter, Route } from 'react-router-dom';
 
 // import postData from 'posts/_data';
+import HomePage from 'pages/home/home-page';
 
 const App = () => {
   return (
-    <div></div>
+    <div id="app">
+      <BrowserRouter>
+        <Route path="/" component={HomePage} />
+      </BrowserRouter>
+    </div>
   );
 };
 

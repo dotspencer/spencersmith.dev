@@ -40,7 +40,7 @@ async function go() {
     [{x:10,y:10}, {x:9,y:10}, {x:9,y:11}, {x:10,y:11}, {x:10,y:12}, {x:9,y:12}], // S
     [{x:11,y:10}, {x:11,y:12}, {x:11,y:10}, {x:12,y:10}, {x:12,y:11}, {x:11,y:11}], // P
     [{x:14,y:10},{x:13,y:10},{x:13,y:12},{x:14,y:12},{x:13,y:12},{x:13,y:11},{x:14,y:11}], // E
-    [{x:15,y:12},{x:15,y:10},{x:16,y:10},{x:16,y:12}], // N
+    [{x:15,y:12},{x:15,y:11},{x:15,y:10},{x:16,y:10},{x:16,y:11},{x:16,y:12}], // N
     [{x:18,y:10},{x:17,y:10},{x:17,y:12},{x:18,y:12}], // C
     [{x:20,y:10},{x:19,y:10},{x:19,y:12},{x:20,y:12},{x:19,y:12},{x:19,y:11},{x:20,y:11}], // E
     [{x:21,y:10}, {x:21,y:12}, {x:21,y:10}, {x:22,y:10}, {x:22,y:11}, {x:21,y:11}, {x:22,y:12}], // R
@@ -133,8 +133,8 @@ async function go() {
     return (row * DIMENTION) + column;
   }
 
-  function shuffle(array){
-    for(let i = 0; i < array.length; i++){
+  function shuffle(array) {
+    for (let i = 0; i < array.length; i++) {
       const randomIndex = Math.floor(Math.random() * array.length);
       const temp = array[i];
       array[i] = array[randomIndex];
