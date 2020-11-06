@@ -1,5 +1,5 @@
-export const DIMENTION = 30;
-export const LINE_WIDTH = 5;
+export const DIMENTION = 24;
+export const LINE_WIDTH = 6;
 export const DELAY = 15;
 
 export const toIndex = (row, column) => {

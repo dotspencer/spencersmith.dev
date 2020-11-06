@@ -63,8 +63,8 @@ const StyledSvg = styled.svg`
   background-color: #333;
   border-radius: 6px;
   width: 500px;
-  max-width: 400px;
-  max-height: 400px;
+  max-width: 350px;
+  max-height: 350px;
 `;
 
 class LogoMaze extends Component {
