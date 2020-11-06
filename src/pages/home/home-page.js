@@ -1,31 +1,35 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
 import Maze from './maze';
 
 const SplitLayout = styled.div`
   display: flex;
-  max-width: 900px;
+  width: 100%;
+  max-width: 820px;
   margin: 10px auto;
+  justify-content: space-between;
 `;
 const LeftSide = styled.div`
-  background-color: lightblue;
-  width: 100%;
+  margin: 50px 0 0;
+  max-width: 380px;
 `;
-const RightSide = styled.div`
-  background-color: lightgreen;
-  width: 100%;
-`;
+const RightSide = styled.div``;
 
 class HomePage extends Component {
   render() {
     return (
       <SplitLayout>
         <LeftSide>
-          <Maze/>
+          <h1>I'm Spencer Smith</h1>
+          <h2 css="margin-top: 15px;">and I like to build cool things for the web.</h2>
+
+          <Link to="/nice">Nice</Link>
+          {/* <h2>and I like to make cool things with code.</h2> */}
         </LeftSide>
         <RightSide>
-          right
+          <Maze/>
         </RightSide>
       </SplitLayout>
     );

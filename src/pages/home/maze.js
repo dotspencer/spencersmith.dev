@@ -28,8 +28,6 @@ const yStart = borderWidth + ySpace / 2;
 
 const LogoWrap = styled.div`
   position: relative;
-  max-height: 400px;
-  max-width: 400px;
   margin: 20px auto 10px;
   border-radius: 8px;
   overflow: hidden;
@@ -64,6 +62,9 @@ const StyledSvg = styled.svg`
   display: block;
   background-color: #333;
   border-radius: 6px;
+  width: 500px;
+  max-width: 400px;
+  max-height: 400px;
 `;
 
 class LogoMaze extends Component {
@@ -74,6 +75,10 @@ class LogoMaze extends Component {
 
   componentDidMount() {
     this.start();
+  }
+
+  componentWillUnmount() {
+    finishEarly = true;
   }
 
   start = async () => {
