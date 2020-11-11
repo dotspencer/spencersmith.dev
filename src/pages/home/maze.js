@@ -8,7 +8,7 @@ import {
   getNeighbors,
   toRowColumn,
   toIndex,
-} from './map-utils';
+} from './maze-utils';
 
 let finishEarly = false;
 let longestDist = 0;
@@ -84,6 +84,9 @@ class LogoMaze extends Component {
   start = async () => {
     finishEarly = false;
     this.svg.current.innerHTML = '';
+    longestDist = 0;
+    visited = {};
+    tree = [];
 
     // add name
     const colorName = '#eaeaea';
@@ -140,6 +143,7 @@ class LogoMaze extends Component {
     while(start == null || visited[start]) {
       // numPicks++;
       start = Math.floor(Math.random() * (DIMENTION * DIMENTION + 1));
+      // console.log('numPicks:', numPicks);
     }
 
     this.explore(start, 0);
