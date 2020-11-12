@@ -25,13 +25,11 @@ const LeftSide = styled.div`
 const RightSide = styled.div``;
 const SectionTitle = styled.h2`
   margin: 50px auto 0;
-  max-width: 700px;
+  max-width: 850px;
 `;
 const MainContent = styled.div`
   margin: 20px auto 0;
-  max-width: 700px;
-  background-color: #eaeaea;
-  padding: 5px 25px;
+  max-width: 850px;
   border-radius: 5px;
 `;
 
