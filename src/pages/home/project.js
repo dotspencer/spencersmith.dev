@@ -56,8 +56,14 @@ const StyledDate = styled.span`
   color: darkgray;
   margin-left: 10px;
 `;
+const Emphasis = styled.span`
+  display: inline;
+  font-family: 'Nanum Pen Script', sans-serif;
+  font-size: 1.3rem;
+  color: indianred;
+`;
 
-const Project = ({ title, desc, url, category, tags, date, className }) => {
+const Project = ({ title, desc, url, category, tags, date, emphasis, className }) => {
   return (
     <ProjectWrap className={className}>
       <Top>
@@ -65,6 +71,9 @@ const Project = ({ title, desc, url, category, tags, date, className }) => {
           {title}
           <img src="/img/external-link.svg"/>
         </TitleLink>
+        {emphasis && (
+          <Emphasis>{emphasis}</Emphasis>
+        )}
         <StyledDate>{date}</StyledDate>
       </Top>
       <Description>{desc}</Description>

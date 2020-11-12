@@ -81,7 +81,7 @@ class HomePage extends Component {
           />
           <Project
             title="Emoji Launch"
-            desc="A micro product launch website (two day hackathon project)."
+            desc="A micro product launch website."
             url="https://emojilaunch.com/"
             date="Apr, 2020"
             category="Web App"
@@ -92,6 +92,7 @@ class HomePage extends Component {
             desc="A distraction-free way to listen to music on YouTube."
             url="https://chrome.google.com/webstore/detail/music-mode-for-youtube/jeieekjcmkhfffleemgbiooooockfmha"
             date="Dec, 2019"
+            emphasis={"featured on Lifehacker!"}
             category="Chrome Extension"
             tags={['html', 'css', 'js']}
           />
@@ -116,6 +117,7 @@ class HomePage extends Component {
             desc="Convert text to how many minutes it will take to read aloud."
             url="https://wordstotime.com/"
             date="Feb, 2019"
+            emphasis={"50k monthly users!"}
             category="Web App"
             tags={['html', 'css', 'js']}
           />
