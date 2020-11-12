@@ -5,20 +5,24 @@ body {
   /* background-color: #77dd86; */
   font-family: 'Roboto', sans-serif;
   font-size: 1.1rem;
+  margin-bottom: 60px;
 }
 h1 {
   font-weight: 900;
 }
+h2 {
+  font-size: 1.6rem;
+}
 p {
   line-height: 1.6rem;
 }
-p a {
+a {
   text-decoration: none;
   color: dodgerblue;
   border-bottom: 2px solid #1e90ff52;
   transition: all 0.15s;
 }
-p a:hover {
+a:hover {
   border-bottom: 2px solid dodgerblue;
 }
 #logo {
