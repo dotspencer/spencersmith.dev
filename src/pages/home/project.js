@@ -81,8 +81,8 @@ const Project = ({ title, desc, url, category, tags, date, emphasis, className }
       <Description>{desc}</Description>
       <TagWrap>
         <Category>{category}</Category>
-        {tags.map(t => (
-          <Tag>{t}</Tag>
+        {tags.map((t, i) => (
+          <Tag key={i}>{t}</Tag>
         ))}
       </TagWrap>
     </ProjectWrap>
