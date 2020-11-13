@@ -26,11 +26,13 @@ const xStart = borderWidth + xSpace / 2;
 const ySpace = height / DIMENTION;
 const yStart = borderWidth + ySpace / 2;
 
-const LogoWrap = styled.div`
+const MazeWrap = styled.div`
   position: relative;
   margin: 20px auto 10px;
   border-radius: 8px;
   overflow: hidden;
+  @media (max-width: 830px) {
+  }
 `;
 const Overlay = styled.div`
   position: absolute;
@@ -57,14 +59,20 @@ const Overlay = styled.div`
       transform: rotate(-30deg);
     }
   }
+  @media (max-width: 830px) {
+    && { opacity: 0; }
+  }
 `;
 const StyledSvg = styled.svg`
   display: block;
   background-color: #333;
   border-radius: 6px;
-  width: 500px;
+  width: 100%;
   max-width: 350px;
   max-height: 350px;
+  @media (max-width: 830px) {
+    margin: 0 auto;
+  }
 `;
 
 class LogoMaze extends Component {
@@ -239,14 +247,12 @@ class LogoMaze extends Component {
 
   render() {
     return (
-      <div>
-        <LogoWrap>
-          <StyledSvg ref={this.svg} viewBox="0 0 200 200"></StyledSvg>
-          <Overlay onClick={this.overlayClick}>
-            <img src="img/sync.svg" alt="" />
-          </Overlay>
-        </LogoWrap>
-      </div>
+      <MazeWrap>
+        <StyledSvg ref={this.svg} viewBox="0 0 200 200"></StyledSvg>
+        <Overlay onClick={this.overlayClick}>
+          <img src="img/sync.svg" alt="" />
+        </Overlay>
+      </MazeWrap>
     );
   }
 }

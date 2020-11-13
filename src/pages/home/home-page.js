@@ -11,6 +11,10 @@ const SplitLayout = styled.div`
   max-width: 850px;
   margin: 10px auto;
   justify-content: space-between;
+  @media (max-width: 830px) {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
 `;
 const Written = styled.span`
   display: inline;
@@ -21,8 +25,18 @@ const Written = styled.span`
 const LeftSide = styled.div`
   margin: 50px 0 0;
   max-width: 450px;
+  @media (max-width: 830px) {
+    max-width: 600px;
+    margin-top: 0;
+    h1 {
+      font-size: 1.6rem;
+    }
+  }
 `;
-const RightSide = styled.div``;
+const RightSide = styled.div`
+  width: 100%;
+  max-width: 350px;
+`;
 const SectionTitle = styled.h2`
   margin: 50px auto 0;
   max-width: 600px;

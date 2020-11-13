@@ -9,6 +9,7 @@ const ProjectWrap = styled.div`
   border-radius: 5px;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px;
   transition: all 0.2s;
+  overflow: hidden;
 `;
 const Top = styled.div`
   display: flex;
@@ -20,6 +21,9 @@ const Description = styled.div`
 `;
 const TagWrap = styled.div`
   margin-top: 8px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
 `;
 const Tag = styled.span`
   padding: 2px 4px;
