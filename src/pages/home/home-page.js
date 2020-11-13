@@ -128,14 +128,6 @@ class HomePage extends Component {
             tags={['Node.js', 'express']}
           />
           <Project
-            title="Taken Taken"
-            desc="Simple domain name availability checker."
-            url="https://www.takentaken.com/"
-            date="Feb, 2017"
-            category="Web App"
-            tags={['Node.js', 'express']}
-          />
-          <Project
             title="Words To Time"
             desc="Convert text to how many minutes it will take to read aloud."
             url="https://wordstotime.com/"
@@ -151,6 +143,14 @@ class HomePage extends Component {
             date="Aug, 2018"
             category="Web App"
             tags={['Node.js', 'express', 'React.js']}
+          />
+          <Project
+            title="Taken Taken"
+            desc="Simple domain name availability checker."
+            url="https://www.takentaken.com/"
+            date="Feb, 2017"
+            category="Web App"
+            tags={['Node.js', 'express']}
           />
           <Project
             title="Face Quiz"
