@@ -25,11 +25,11 @@ const LeftSide = styled.div`
 const RightSide = styled.div``;
 const SectionTitle = styled.h2`
   margin: 50px auto 0;
-  max-width: 850px;
+  max-width: 650px;
 `;
 const MainContent = styled.div`
   margin: 20px auto 0;
-  max-width: 850px;
+  max-width: 650px;
   border-radius: 5px;
 `;
 
@@ -85,7 +85,7 @@ class HomePage extends Component {
             url="https://emojilaunch.com/"
             date="Apr, 2020"
             category="Web App"
-            tags={['Node.js', 'Express', 'PostgreSQL']}
+            tags={['Node.js', 'express', 'PostgreSQL']}
           />
           <Project
             title="Music Mode for YouTube"
@@ -102,7 +102,7 @@ class HomePage extends Component {
             url="https://effortlessreviews.com/"
             date="Oct, 2019"
             category="Web App"
-            tags={['Node.js', 'Express', 'React.js', 'NGINX', 'Docker', 'MySQL', 'Flyway', 'Stripe']}
+            tags={['Node.js', 'express', 'React.js', 'NGINX', 'Docker', 'MySQL', 'Flyway', 'Stripe']}
           />
           <Project
             title="Email Taco"
@@ -110,7 +110,15 @@ class HomePage extends Component {
             url="https://emailtaco.com/"
             date="Aug, 2019"
             category="Web App"
-            tags={['Node.js', 'Express']}
+            tags={['Node.js', 'express']}
+          />
+          <Project
+            title="Taken Taken"
+            desc="Simple domain name availability checker."
+            url="https://www.takentaken.com/"
+            date="Feb, 2017"
+            category="Web App"
+            tags={['Node.js', 'express']}
           />
           <Project
             title="Words To Time"
@@ -127,7 +135,15 @@ class HomePage extends Component {
             url="https://keenhtml.com/"
             date="Aug, 2018"
             category="Web App"
-            tags={['Node.js', 'Express', 'React.js']}
+            tags={['Node.js', 'express', 'React.js']}
+          />
+          <Project
+            title="Face Quiz"
+            desc="Create your own quizzes to help learn names and faces."
+            url="https://facequiz.org/"
+            date="Nov, 2016"
+            category="Web App"
+            tags={['Node.js', 'express', 'html', 'css', 'js']}
           />
 
         </MainContent>

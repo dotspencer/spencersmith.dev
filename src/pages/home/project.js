@@ -3,24 +3,23 @@ import styled from 'styled-components';
 
 const ProjectWrap = styled.div`
   padding: 10px;
-  font-size: 1rem;
+  font-size: 0.95rem;
   background-color: #fbfbfb;
   margin: 15px 0;
-  max-width: 550px;
   border-radius: 5px;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px;
   transition: all 0.2s;
 `;
 const Top = styled.div`
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-between;
 `;
 const Description = styled.div`
-  margin-top: 5px;
+  margin-top: 6px;
 `;
 const TagWrap = styled.div`
-  margin-top: 7px;
+  margin-top: 8px;
 `;
 const Tag = styled.span`
   padding: 2px 4px;
@@ -38,7 +37,8 @@ const Category = styled.span`
 `;
 const TitleLink = styled.a`
   color: #333;
-  font-weight: 600;
+  font-weight: 500;
+  font-size: 1.05rem;
   img {
     height: 15px;
     opacity: 0;
