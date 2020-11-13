@@ -29,12 +29,6 @@ const Tag = styled.span`
   margin: 2px;
   border-radius: 3px;
 `;
-const Category = styled.span`
-  font-size: 0.9rem;
-  font-weight: 400;
-  color: #777;
-  margin-right: 10px;
-`;
 const TitleLink = styled.a`
   color: #333;
   font-weight: 500;
@@ -50,10 +44,14 @@ const TitleLink = styled.a`
     opacity: 0.6;
   }
 `;
-const StyledDate = styled.span`
+const Category = styled.span`
   font-size: 0.9rem;
   font-weight: 400;
-  color: darkgray;
+  color: #888;
+  margin-right: 10px;
+`;
+const StyledDate = styled(Category)`
+  margin-right: 0;
   margin-left: 10px;
 `;
 const Emphasis = styled.span`

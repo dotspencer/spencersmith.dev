@@ -25,11 +25,11 @@ const LeftSide = styled.div`
 const RightSide = styled.div``;
 const SectionTitle = styled.h2`
   margin: 50px auto 0;
-  max-width: 650px;
+  max-width: 600px;
 `;
 const MainContent = styled.div`
   margin: 20px auto 0;
-  max-width: 650px;
+  max-width: 600px;
   border-radius: 5px;
 `;
 
@@ -41,7 +41,7 @@ class HomePage extends Component {
           <LeftSide>
             <h1>I'm Spencer, and I like to build cool things with code.</h1>
 
-            <p css="margin-top: 25px;">Frontend Engineer at SoFi and studying Computer Science at the University of Utah. <Written>(graduating May 2021)</Written></p>
+            <p css="margin-top: 25px;">Frontend Engineer at SoFi. Studying Computer Science at the University of Utah. <Written>(graduating May 2021)</Written></p>
             <p>I enjoy helping people on <a href="https://stackoverflow.com/users/3498950" target="_blank">StackOverflow</a> and launching side projects on <a href="https://www.producthunt.com/@dotspencer/made">Product Hunt</a>.</p>
             <p>Reach out or connect with me on <a href="https://www.linkedin.com/in/dotspencer/" target="_blank">LinkedIn</a> ✌️</p>
 
