@@ -21,6 +21,7 @@ const Written = styled.span`
   font-family: 'Nanum Pen Script', sans-serif;
   font-size: 1.3rem;
   color: indianred;
+  white-space: nowrap;
 `;
 const LeftSide = styled.div`
   margin: 50px 0 0;
