@@ -57,7 +57,7 @@ class HomePage extends Component {
 
             <p css="margin-top: 25px;">Frontend Engineer at SoFi. Studying Computer Science at the University of Utah. <Written>(graduating May 2021)</Written></p>
             <p>I enjoy helping people on <a href="https://stackoverflow.com/users/3498950" target="_blank">StackOverflow</a> and launching side projects on <a href="https://www.producthunt.com/@dotspencer/made">Product Hunt</a>.</p>
-            <p>Reach out or connect with me on <a href="https://www.linkedin.com/in/dotspencer/" target="_blank">LinkedIn</a> ✌️</p>
+            <p>Connect with me on <a href="https://www.linkedin.com/in/dotspencer/" target="_blank">LinkedIn</a> ✌️</p>
 
             {/* <LinkWrap>
               <Link to="/music">

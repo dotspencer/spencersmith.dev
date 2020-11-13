@@ -32,6 +32,7 @@ const MazeWrap = styled.div`
   border-radius: 8px;
   overflow: hidden;
   @media (max-width: 830px) {
+    margin-top: 0;
   }
 `;
 const Overlay = styled.div`
