@@ -55,21 +55,9 @@ class HomePage extends Component {
         <SplitLayout>
           <LeftSide>
             <h1>I'm Spencer, and I like to build cool things with code.</h1>
-
             <p css="margin-top: 25px;">Frontend Engineer at SoFi. Studying Computer Science at the University of Utah. <Written>(graduating May 2021)</Written></p>
             <p>I enjoy helping people on <a href="https://stackoverflow.com/users/3498950" target="_blank">StackOverflow</a> and launching side projects on <a href="https://www.producthunt.com/@dotspencer/made">Product Hunt</a>.</p>
             <p>Follow me on <a href="https://github.com/dotspencer" target="_blank">Github</a> or connect with me on <a href="https://www.linkedin.com/in/dotspencer/" target="_blank">LinkedIn</a> ✌️</p>
-
-            {/* <LinkWrap>
-              <Link to="/music">
-                <img src="/img/music.svg"></img>
-                Music
-              </Link>
-              <Link to="/projects">Projects</Link>
-              <Link to="/articles">Blog</Link>
-            </LinkWrap> */}
-
-            {/* <h2>and I like to make cool things with code.</h2> */}
           </LeftSide>
           <RightSide>
             <Maze/>
@@ -158,9 +146,8 @@ class HomePage extends Component {
             url="https://facequiz.org/"
             date="Nov, 2016"
             category="Web App"
-            tags={['Node.js', 'express', 'html', 'css', 'js']}
+            tags={['Node.js', 'express', 'React.js']}
           />
-
         </MainContent>
       </>
     );
