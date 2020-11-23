@@ -120,7 +120,7 @@ class HomePage extends Component {
             desc="Convert text to how many minutes it will take to read aloud."
             url="https://wordstotime.com/"
             date="Feb, 2019"
-            emphasis={"50k monthly users!"}
+            emphasis={"70,000 views per month!"}
             category="Web App"
             tags={['html', 'css', 'js']}
           />
