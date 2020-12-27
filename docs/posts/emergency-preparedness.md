@@ -1,5 +1,11 @@
 # Family Emergency Preparedness List (2021)
 
+### Blogs or course information pages
+
+Ms. Minor
+* 2008-2009 (blog)  
+https://wviewaplitminor.blogspot.com/
+
 ## Water
 
 #### 7 Gal Water Containers - <https://amzn.to/3aIIFrt>
@@ -18,13 +24,13 @@ Some reviewers mentioned that the spigot leaked and they solved the issue by add
 
 ## Light + Electricity + Communications
 
-Jackery Power Station 240 - <https://amzn.to/2WNfZ8u>
+Jackery Power Station 240 - https://amzn.to/2WNfZ8u
 
-(Upgrade) Jackery Power Station 500 - <https://amzn.to/2WOIClC>
+(Upgrade) Jackery Power Station 500 - https://amzn.to/2WOIClC
 
 Rockpals 60w Solar Panel - https://amzn.to/2WQ3vwK
 
-(Upgrade) Rockpals 100w Solar Panel - <https://amzn.to/3aLXNV4>
+(Upgrade) Rockpals 100w Solar Panel - https://amzn.to/3aLXNV4
 
 ## First Aid
 
