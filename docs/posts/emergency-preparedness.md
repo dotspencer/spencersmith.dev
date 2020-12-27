@@ -16,11 +16,28 @@ Some reviewers mentioned that the spigot leaked but they solved the issue by add
 
 Last note is that they can't be stacked when full of water because they will crush the lower ones from the weight. So you'll need to store them on a shelf if you have more than a few and you want to minimize the space they take up.
 
-## Food, Cooking
+**Water Filters - https://amzn.to/38GD8ie**
 
-## Shelter
+**Water Purification Tablets - https://amzn.to/3rwy6Og**
 
-## Fire, Warmth
+
+## Shelter, Warmth
+
+**10x14 Canvas Tent - https://www.competitiveedgeproducts.com/Kodiak-Canvas-10x14-ft-6014-8-person-Deluxe-Canvas-Tent_p_18.html**
+
+[<img src="https://cdn11.bigcommerce.com/s-yaxmx/images/stencil/1280x1280/products/85/273/6014_Flex_Bow_Kodiak_Canvas__82105.1394229899.jpg?c=2" height="200">](https://www.competitiveedgeproducts.com/Kodiak-Canvas-10x14-ft-6014-8-person-Deluxe-Canvas-Tent_p_18.html)
+
+**Portable Propane Heater - https://www.lowes.com/pd/h/3353726**
+
+**Adapter Hose (20lb to 1lb) - https://www.lowes.com/pd/h/1121689**
+
+**Propane Hose Filter - https://www.lowes.com/pd/h/3029755**
+
+
+## Cooking, Fire
+
+**2 Burner Propane Stove - https://amzn.to/2MemRtH**
+
 
 ## Light, Electricity, Communications
 
@@ -37,6 +54,10 @@ I liked the Jackery brand power stations because they have a simple and durable 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/717etU5Be5L._AC_SL1001_.jpg" height="200">](https://amzn.to/2WQ3vwK)
 
 Jackery sells solar panels for their power stations but I decided on Rockpals because they folded up smaller, were water resistant, and were actually cheaper. The main two I was deciding between were the 60w (https://amzn.to/2WQ3vwK) and the 100w (https://amzn.to/3aLXNV4). I decided on the 60w because I liked the price point ($100 vs $190) and it seemed like it would be good enough for us. But if you want to charge up your power station in as little time as possible, the 100w could be the better option for you.
+
+**Portable Dual Band HAM Radio - https://amzn.to/2MbmRuk**
+
+**Radio Programming Cable - https://amzn.to/37QP95R**
 
 ## First Aid
 
