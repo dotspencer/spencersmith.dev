@@ -1,4 +1,4 @@
-# Family Emergency Preparedness List (2021)
+# Family Camping / Emergency Preparedness List (2021)
 
 ## Water
 
@@ -58,6 +58,10 @@ Jackery sells solar panels for their power stations but I decided on Rockpals be
 **Portable Dual Band HAM Radio - https://amzn.to/2MbmRuk**
 
 **Radio Programming Cable - https://amzn.to/37QP95R**
+
+**900 Lumen Rechargable Flashlight - https://amzn.to/2MbKGlL**
+
+We're starting to transition from disposable battery (AA/AAA) powered things to rechargable so that they could be recharged from our solar panel and power station. These flashlights are water resistant, super bright, usb rechargable, and are powered by 18650 batteries that can be replaced if need be.
 
 ## First Aid
 
