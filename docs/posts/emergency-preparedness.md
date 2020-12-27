@@ -16,13 +16,13 @@ Some reviewers mentioned that the spigot leaked but they solved the issue by add
 
 Last note is that they can't be stacked when full of water because they will crush the lower ones from the weight. So if you have more than a few and you want to minimize the space they take up, you'll need to store them on a shelf.
 
-## Food + Cooking
+## Food, Cooking
 
 ## Shelter
 
-## Fire + Warmth
+## Fire, Warmth
 
-## Light + Electricity + Communications
+## Light, Electricity, Communications
 
 **Solar Power Station - https://amzn.to/2WNfZ8u**
 
