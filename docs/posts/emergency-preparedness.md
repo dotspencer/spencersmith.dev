@@ -20,7 +20,7 @@ Some reviewers mentioned that the spigot leaked and they solved the issue by add
 
 ## Light + Electricity + Communications
 
-Jackery Power Station 240 - <https://amzn.to/2WNfZ8u
+Jackery Power Station 240 - <https://amzn.to/2WNfZ8u>
 
 (Upgrade) Jackery Power Station 500 - <https://amzn.to/2WOIClC>
 
