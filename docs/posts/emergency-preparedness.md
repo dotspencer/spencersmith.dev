@@ -30,13 +30,13 @@ Last note is that they can't be stacked when full of water because they will cru
 
 This power station comes in different configurations from 160Wh up to 1000Wh, all of which run around $1 per Wh. We decided on the 240Wh version (https://amzn.to/2WNfZ8u) because it was on the less expensive end but still seemed like it'd be enough for our needs. If you're looking for something more powerful, a good upgrade would be the 500Wh version (https://amzn.to/2WOIClC).
 
-I liked the Jackery brand power stations because they are designed to last, include MPPT (faster solar charging rate), and include an input watt meter so you can tell how your solar panels are performing at any time.
+I liked the Jackery brand power stations because they have a simple and durable design, include MPPT (faster solar charging), and include an input watt meter so you can tell how your solar panels are performing at any time.
 
 **Portable Solar Panel** - https://amzn.to/2WQ3vwK
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/717etU5Be5L._AC_SL1001_.jpg" height="200">](https://amzn.to/2WQ3vwK)
 
-Jackery sells solar panels for their power stations but I decided on Rockpals because folded up smaller, had better water resistance, and were actually cheaper. The main two I was deciding between were the 60w (https://amzn.to/2WQ3vwK) and the 100w (https://amzn.to/3aLXNV4). I decided on the 60w because it seemed like a slightly better value for the money. But if you want to charge up your power station in as little time as possible, the 100w would be the better option.
+Jackery sells solar panels for their power stations but I decided on Rockpals because folded up smaller, had better water resistance, and were actually cheaper. The main two I was deciding between were the 60w (https://amzn.to/2WQ3vwK) and the 100w (https://amzn.to/3aLXNV4). I decided on the 60w because I liked the price point better ($100 vs $190) and it seemed like it would be good enough for us. But if you want to charge up your power station in as little time as possible, the 100w could be the better option for you.
 
 ## First Aid
 
