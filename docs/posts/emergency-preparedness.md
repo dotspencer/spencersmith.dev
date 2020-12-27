@@ -36,7 +36,7 @@ I liked the Jackery brand power stations because they have a simple and durable 
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/717etU5Be5L._AC_SL1001_.jpg" height="200">](https://amzn.to/2WQ3vwK)
 
-Jackery sells solar panels for their power stations but I decided on Rockpals because folded up smaller, had better water resistance, and were actually cheaper. The main two I was deciding between were the 60w (https://amzn.to/2WQ3vwK) and the 100w (https://amzn.to/3aLXNV4). I decided on the 60w because I liked the price point better ($100 vs $190) and it seemed like it would be good enough for us. But if you want to charge up your power station in as little time as possible, the 100w could be the better option for you.
+Jackery sells solar panels for their power stations but I decided on Rockpals because they folded up smaller, were water resistant, and were actually cheaper. The main two I was deciding between were the 60w (https://amzn.to/2WQ3vwK) and the 100w (https://amzn.to/3aLXNV4). I decided on the 60w because I liked the price point ($100 vs $190) and it seemed like it would be good enough for us. But if you want to charge up your power station in as little time as possible, the 100w could be the better option for you.
 
 ## First Aid
 
