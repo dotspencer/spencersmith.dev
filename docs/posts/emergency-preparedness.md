@@ -1,11 +1,5 @@
 # Family Emergency Preparedness List (2021)
 
-### Blogs or course information pages
-
-Ms. Minor
-* 2008-2009 (blog)  
-https://wviewaplitminor.blogspot.com/
-
 ## Water
 
 #### 7 Gal Water Containers - https://amzn.to/3aIIFrt
