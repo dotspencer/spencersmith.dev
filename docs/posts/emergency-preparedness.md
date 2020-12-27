@@ -12,7 +12,7 @@ On the Amazon page make sure to select the "11.3 Inch x 11.0 Inch x 15.3 Inch" s
 
 Another thing to note is that Amazon won't let you order more than 4 of them at a time. After around a month or so it let us put in a second order so getting the number you'd want may take some time. If you didn't want to wait you can also find them at REI, they're just a little more expensive.
 
-Some reviewers mentioned that the spigot leaked but they solved the issue by adding an o-ring. It's really only an issue when it's tipped on it's side and doesn't affect long term storage upright. But to be safe we purchased some and have used them from the beginning and haven't had any leaks. We used Danco #17 O-Rings which came in a 10 pack. It's a cheap fix and definitely worth it in my mind. You can pick it up at Home Depot in the plumbing section or on Amazon (https://amzn.to/3rDkNvx) for the same price.
+Some reviewers mentioned that the spigot leaked but they solved the issue by adding an o-ring. I can only imagine it being an issue when it's tipped on it's side and wouldn't affect long term storage upright. But to be safe we purchased some and have used them from the beginning and haven't had any leaks. We used Danco #17 O-Rings which came in a 10 pack. It's a cheap fix and definitely worth it in my mind. You can pick it up at Home Depot in the plumbing section or on Amazon (https://amzn.to/3rDkNvx) for the same price.
 
 Last note is that they can't be stacked when full of water because they will crush the lower ones from the weight. So you'll need to store them on a shelf if you have more than a few and you want to minimize the space they take up.
 
