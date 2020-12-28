@@ -29,9 +29,13 @@ Last note is that they can't be stacked when full of water because they will cru
 
 **Portable Propane Heater - https://www.lowes.com/pd/h/3353726**
 
+[<img src="https://mobileimages.lowes.com/product/converted/089301/089301320208.jpg?size=pdhi" height="200">](https://www.lowes.com/pd/h/3353726)
+
 **Adapter Hose (20lb to 1lb) - https://www.lowes.com/pd/h/1121689**
 
 **Propane Hose Filter - https://www.lowes.com/pd/h/3029755**
+
+The heater above comes with a connection for the green 1 lb camping propane tanks but with the adapter hose and filter you can use the heater with any standard 20+ lb tank. While you could use the heater and hose without the filter, the high pressure of the propane forces small amounts of oil out of the rubber in the hose. That oil clogs up the pores of the heating element and could prevent it from working properly after sustained use.
 
 
 ## Cooking, Fire
