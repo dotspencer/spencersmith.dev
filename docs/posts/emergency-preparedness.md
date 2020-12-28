@@ -63,9 +63,11 @@ Jackery sells solar panels for their power stations but I decided on Rockpals be
 
 **Radio Programming Cable - https://amzn.to/37QP95R**
 
-**900 Lumen Rechargable Flashlight - https://amzn.to/2MbKGlL**
+**900 Lumen Rechargeable Flashlight - https://amzn.to/2MbKGlL**
 
-We're starting to transition from disposable battery (AA/AAA) powered things to rechargable so that they could be recharged from our solar panel and power station. These flashlights are water resistant, super bright, usb rechargable, and are powered by 18650 batteries that can be replaced if need be.
+We're starting to transition from disposable battery (AA/AAA) powered things to rechargeable so that they could be recharged from our solar panel and power station. These flashlights are water resistant, super bright, usb rechargeable, and are powered by 18650 batteries that can be replaced if need be.
+
+We also have the smaller 400 lumen version (https://amzn.to/38GVbov) and it has worked great as well.
 
 ## First Aid
 
