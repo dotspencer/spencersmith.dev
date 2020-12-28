@@ -18,6 +18,10 @@ Last note is that they can't be stacked when full of water because they will cru
 
 **Water Filters - https://amzn.to/38GD8ie**
 
+[<img src="https://images-na.ssl-images-amazon.com/images/I/81B-rrHP6qL._AC_SL1500_.jpg" height="200">](https://amzn.to/38GD8ie)
+
+We've used these multiple times backpacking and they're super nice because you don't have to worry about all the parts of traditional pump style filters. They're simple, lightweight, and just work.
+
 **Water Purification Tablets - https://amzn.to/3rwy6Og**
 
 
@@ -41,6 +45,12 @@ The heater above comes with a connection for the green 1 lb camping propane tank
 ## Cooking, Fire
 
 **2 Burner Propane Stove - https://amzn.to/2MemRtH**
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/81M8bHGbE7L._AC_SL1500_.jpg" height="200">](https://amzn.to/2MemRtH)
+
+**4ft Adapter Hose (20lb to 1lb) - https://www.homedepot.com/p/4-ft-Hose-with-Adaptor-711-0004/206338534**
+
+Allows using 20+ lb tanks instead of the normal green 1 lb camping tanks for extended use. Works the same as the adapter hose for the heater but does not need to be used with a filter since the oil from the rubber can be burned off without any issues.
 
 
 ## Light, Electricity, Communications
