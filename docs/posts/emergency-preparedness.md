@@ -75,9 +75,18 @@ Jackery sells solar panels for their power stations but I decided on Rockpals be
 
 **900 Lumen Rechargeable Flashlight - https://amzn.to/2MbKGlL**
 
+[<img src="https://images-na.ssl-images-amazon.com/images/I/7113yxOuyKL._AC_SL1500_.jpg" height="200">](https://amzn.to/2MbKGlL)
+
 We're starting to transition from disposable battery (AA/AAA) powered things to rechargeable so that they could be recharged from our solar panel and power station. These flashlights are water resistant, super bright, usb rechargeable, and are powered by 18650 batteries that can be replaced if need be.
 
 We also have the smaller 400 lumen version (https://amzn.to/38GVbov) and it has worked great as well.
+
+**Rechargeable Camping Lantern - https://amzn.to/39ecA8w**
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51szLYpUpZL._AC_SL1000_.jpg" height="200">](https://amzn.to/39ecA8w)
+
+This light is a great hanging lantern for inside the tent but also doubles as a 3000mAh power bank that can be used to recharge other electronics. It also has a magnetic base so it can be stuck to your fridge for light in an emergency. The flood light lasts for 5 hours on high brightness and 11 hours on medium brightness.
+
 
 ## First Aid
 
