@@ -71,6 +71,12 @@ Jackery sells solar panels for their power stations but I decided on Rockpals be
 
 **Portable Dual Band HAM Radio - https://amzn.to/2MbmRuk**
 
+[<img src="https://images-na.ssl-images-amazon.com/images/I/71q8H7X3FRL._AC_SL1500_.jpg" height="300">](https://amzn.to/2MbmRuk)
+
+This is a great 8 watt VHF/UHF radio and it has worked well for me. It comes with a decent antenna, charging dock, and a 2100mAh rechargeable battery. Only downside is that you'll need a programming cable to be able to customize the channels for your area. Anyone can use this radio to listen but to broadcast you need to have an Amateur Radio license. It cost around $15 to take the test and only required a few days of study to be able to pass.
+
+You can find a list of places to take the Amateur Radio License Exam here: http://www.arrl.org/find-an-amateur-radio-license-exam-session
+
 **Radio Programming Cable - https://amzn.to/37QP95R**
 
 **900 Lumen Rechargeable Flashlight - https://amzn.to/2MbKGlL**
