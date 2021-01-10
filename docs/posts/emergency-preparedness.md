@@ -41,6 +41,10 @@ We've used these multiple times backpacking and they're super nice because you d
 
 The heater above comes with a connection for the green 1 lb camping propane tanks but with the adapter hose and filter you can use the heater with any standard 20+ lb tank. While you could use the heater and hose without the filter, the high pressure of the propane forces small amounts of oil out of the rubber in the hose. That oil can clog up the pores of the ceramic heating element and prevent it from working properly after sustained use.
 
+**0°F Mummy Sleeping Bag - https://amzn.to/3s6MUU1**
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51HjxI6ojdL._AC_.jpg" height="250">](https://amzn.to/3s6MUU1)
+
 
 ## Cooking, Fire
 
