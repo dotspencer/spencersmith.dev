@@ -22,7 +22,19 @@ Last note is that they can't be stacked when full of water because they will cru
 
 We've used these multiple times backpacking and they're super nice because you don't have to worry about all the parts of traditional pump style filters. They're simple, lightweight, and just work.
 
-**Water Purification Tablets - https://amzn.to/3rwy6Og**
+**<strike>Water Purification Tablets - https://amzn.to/3rwy6Og</strike>**
+
+No longer listed on Amazon. Will update with link to replacement listing.
+
+**Rainwater Collection Tank - https://www.ntotank.com/305gallon-norwesco-black-vertical-water-tank-x9023077**
+
+[<img src="https://i.stack.imgur.com/5ASUr.jpg" height="200">](https://www.ntotank.com/305gallon-norwesco-black-vertical-water-tank-x9023077)
+
+This is a 305 gallon above-ground water tank that can be used for a rainwater collection system. The link above is the only place I found that has the option for local pickup which will save you a ton of money on shipping costs.
+
+**Downspout Leaf Filter - https://amzn.to/2M0nGGJ**
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/71CT6psGhNL._AC_SX679_.jpg" height="200">](https://amzn.to/2M0nGGJ)
 
 
 ## Shelter, Warmth
