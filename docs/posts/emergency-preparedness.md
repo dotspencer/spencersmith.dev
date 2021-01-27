@@ -30,7 +30,9 @@ No longer listed on Amazon. Will update with link to replacement listing.
 
 [<img src="https://i.stack.imgur.com/5ASUr.jpg" height="200">](https://www.ntotank.com/305gallon-norwesco-black-vertical-water-tank-x9023077)
 
-This is a 305 gallon above-ground water tank that can be used for a rainwater collection system. The link above is the only place I found that has the option for local pickup which will save you a ton of money on shipping costs.
+This is a 305 gallon above-ground water tank that can be used for a rainwater collection system. The link above is the only place I found that has the option for local pickup which can save you a ton on shipping costs.
+
+The black plastic helps prevent algae growth since it blocks the light unlike similar white or blue containers. The rainwater can be used for watering plants or for drinking in an emergency if it's properly treated/filtered.
 
 **Downspout Leaf Filter - https://amzn.to/2M0nGGJ**
 
