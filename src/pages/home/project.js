@@ -39,13 +39,10 @@ const TitleLink = styled.a`
   font-size: 1.05rem;
   img {
     height: 15px;
-    opacity: 0;
+    opacity: 0.3;
     margin-left: 5px;
     transform: translateY(1px);
     transition: all 0.15s;
-  }
-  &:hover img {
-    opacity: 0.6;
   }
 `;
 const Category = styled.span`
