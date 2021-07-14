@@ -60,6 +60,9 @@ const Emphasis = styled.span`
   font-family: 'Nanum Pen Script', sans-serif;
   font-size: 1.3rem;
   color: indianred;
+  background-color: #ed143d17;
+  padding: 0 6px;
+  border-radius: 4px;
 `;
 
 const Project = ({ title, desc, url, category, tags, date, emphasis, className }) => {

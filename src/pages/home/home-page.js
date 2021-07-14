@@ -55,8 +55,8 @@ class HomePage extends Component {
         <SplitLayout>
           <LeftSide>
             <h1>I'm Spencer, and I like to build cool things with code.</h1>
-            <p css="margin-top: 25px;">Frontend Engineer at SoFi. Studying Computer Science at the University of Utah. <Written>(graduating May 2021)</Written></p>
-            <p>I enjoy helping people on <a href="https://stackoverflow.com/users/3498950" target="_blank">StackOverflow</a> and launching side projects on <a href="https://www.producthunt.com/@dotspencer/made">Product Hunt</a>.</p>
+            <p css="margin-top: 25px;">BS in Computer Science from the University of Utah. Frontend Software Engineer at SoFi.</p>
+            <p>I enjoy helping people on <a href="https://stackoverflow.com/users/3498950" target="_blank">StackOverflow</a> and launching projects on <a href="https://www.producthunt.com/@dotspencer/made">Product Hunt</a>.</p>
             <p>Follow me on <a href="https://github.com/dotspencer" target="_blank">Github</a> or connect with me on <a href="https://www.linkedin.com/in/dotspencer/" target="_blank">LinkedIn</a> ✌️</p>
           </LeftSide>
           <RightSide>
@@ -95,7 +95,7 @@ class HomePage extends Component {
             desc="A distraction-free way to listen to music on YouTube."
             url="https://chrome.google.com/webstore/detail/music-mode-for-youtube/jeieekjcmkhfffleemgbiooooockfmha"
             date="Dec, 2019"
-            emphasis={"featured on Lifehacker!"}
+            emphasis={"3,000+ active users"}
             category="Chrome Extension"
             tags={['html', 'css', 'js']}
           />
@@ -104,6 +104,7 @@ class HomePage extends Component {
             desc="Review generation and customer feedback platform for local businesses."
             url="https://effortlessreviews.com/"
             date="Oct, 2019"
+            emphasis={"my largest scale project"}
             category="Web App"
             tags={['Node.js', 'express', 'React.js', 'NGINX', 'Docker', 'MySQL', 'Flyway', 'Stripe']}
           />
@@ -120,7 +121,7 @@ class HomePage extends Component {
             desc="Convert text to how many minutes it will take to read aloud."
             url="https://wordstotime.com/"
             date="Feb, 2019"
-            emphasis={"70,000 views per month!"}
+            emphasis={"1.1 million pageviews!"}
             category="Web App"
             tags={['html', 'css', 'js']}
           />
