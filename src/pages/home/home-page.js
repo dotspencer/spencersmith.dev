@@ -16,13 +16,13 @@ const SplitLayout = styled.div`
     align-items: center;
   }
 `;
-const Written = styled.span`
-  display: inline;
-  font-family: 'Nanum Pen Script', sans-serif;
-  font-size: 1.3rem;
-  color: indianred;
-  white-space: nowrap;
-`;
+// const Written = styled.span`
+//   display: inline;
+//   font-family: 'Nanum Pen Script', sans-serif;
+//   font-size: 1.3rem;
+//   color: indianred;
+//   white-space: nowrap;
+// `;
 const LeftSide = styled.div`
   margin: 50px 0 0;
   max-width: 450px;
