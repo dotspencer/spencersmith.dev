@@ -73,13 +73,19 @@ Allows using 20+ lb tanks instead of the normal green 1 lb camping tanks for ext
 
 ## Light, Electricity, Communications
 
-**Solar Power Station - https://amzn.to/2WNfZ8u**
+**(UPDATED) Solar Power Station - https://amzn.to/3aDabFH** ($180)
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/71FtElwWrBL._AC_SL1500_.jpg" height="200">](https://amzn.to/2WNfZ8u)
+[<img src="https://m.media-amazon.com/images/I/812b3-eQZEL._AC_SX679_.jpg" height="200">](https://amzn.to/3aDabFH)
 
-This power station comes in different configurations from 160Wh up to 1000Wh, all of which run around $1 per Wh. We decided on the 240Wh version (https://amzn.to/2WNfZ8u) because it was on the less expensive end but still seemed like it'd be enough for our needs. If you're looking for something more powerful, a good upgrade would be the 500Wh version (https://amzn.to/2WOIClC).
+My new pick for a solar power station station would be this Rockpals 300. If you can get it on sale it's around $20 cheaper than the Jackery 240, plus a larger 280wh battery.
 
-I liked the Jackery brand power stations because they have a simple and durable design, include MPPT (faster solar charging), and include an input watt meter so you can tell how your solar panels are performing at any time.
+~**Solar Power Station - https://amzn.to/2WNfZ8u**~
+
+[<img src="https://m.media-amazon.com/images/I/71z6d03iT8S._AC_SX679_.jpg" height="200">](https://amzn.to/2WNfZ8u)
+
+~This power station comes in different configurations from 160Wh up to 1000Wh, all of which run around $1 per Wh. We decided on the 240Wh version (https://amzn.to/2WNfZ8u) because it was on the less expensive end but still seemed like it'd be enough for our needs. If you're looking for something more powerful, a good upgrade would be the 500Wh version (https://amzn.to/2WOIClC).~
+
+~I liked the Jackery brand power stations because they have a simple and durable design, include MPPT (faster solar charging), and include an input watt meter so you can tell how your solar panels are performing at any time.~
 
 **Portable Solar Panel** - https://amzn.to/2WQ3vwK
 
