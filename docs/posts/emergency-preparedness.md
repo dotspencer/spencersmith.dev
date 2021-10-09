@@ -34,9 +34,9 @@ This is a 305 gallon above-ground water tank that can be used for a rainwater co
 
 The black plastic helps prevent algae growth since it blocks the light unlike similar white or blue containers. The rainwater can be used for watering plants or for drinking in an emergency if it's properly treated/filtered.
 
-**Downspout Leaf Filter - https://amzn.to/2M0nGGJ**
+**Downspout Leaf Filter - https://amzn.to/3Ap0zsl**
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/71CT6psGhNL._AC_SX679_.jpg" height="200">](https://amzn.to/2M0nGGJ)
+[<img src="https://images-na.ssl-images-amazon.com/images/I/71CT6psGhNL._AC_SX679_.jpg" height="200">](https://amzn.to/3Ap0zsl)
 
 
 ## Shelter, Warmth
