@@ -2,9 +2,9 @@
 
 ## Water
 
-**Water Storage Containers - https://amzn.to/3aIIFrt**
+**Water Storage Containers - https://www.rei.com/product/618168/reliance-aqua-tainer-7-gal**
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41x%2BN7Wsb-L._AC_.jpg" height="200">](https://amzn.to/3aIIFrt)
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41x%2BN7Wsb-L._AC_.jpg" height="200">](https://www.rei.com/product/618168/reliance-aqua-tainer-7-gal)
 
 The rule of thumb is 1 gallon per person per day. With these 7 gal containers the math is easy since each container will last one person for one week. We're working toward storing 5 weeks worth of water, which for our family of four turns out to 20 containers.
 
@@ -46,6 +46,8 @@ The black plastic helps prevent algae growth since it blocks the light unlike si
 [<img src="https://cdn11.bigcommerce.com/s-yaxmx/images/stencil/1280x1280/products/85/273/6014_Flex_Bow_Kodiak_Canvas__82105.1394229899.jpg?c=2" height="200">](https://www.competitiveedgeproducts.com/Kodiak-Canvas-10x14-ft-6014-8-person-Deluxe-Canvas-Tent_p_18.html)
 
 **Portable Propane Heater - https://www.lowes.com/pd/h/3353726**
+
+> Recently saw these heaters in stock (including the adapter hose and filter) for cheaper at Costco.
 
 [<img src="https://mobileimages.lowes.com/product/converted/089301/089301320208.jpg?size=pdhi" height="200">](https://www.lowes.com/pd/h/3353726)
 
@@ -97,6 +99,8 @@ Jackery sells solar panels for their power stations but I decided on Rockpals be
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/71q8H7X3FRL._AC_SL1500_.jpg" height="300">](https://amzn.to/2MbmRuk)
 
+> Alternative cheaper version here: https://amzn.to/3AT0LmW. From our tests it performed pretty much exactly the same!
+
 This is a great 8 watt VHF/UHF radio and it has worked well for me. It comes with a decent antenna, charging dock, and a 2100mAh rechargeable battery. Only downside is that you'll need a programming cable to be able to customize the channels for your area. Anyone can use this radio to listen but to broadcast you need to have an Amateur Radio license. It cost around $15 to take the test and only required a few days of study to be able to pass.
 
 You can find a list of places to take the Amateur Radio License Exam in your area here: http://www.arrl.org/find-an-amateur-radio-license-exam-session
@@ -110,6 +114,8 @@ You can find a list of places to take the Amateur Radio License Exam in your are
 We're starting to transition from disposable battery (AA/AAA) powered things to rechargeable so that they could be recharged from our solar panel and power station. These flashlights are water resistant, super bright, usb rechargeable, and are powered by 18650 batteries that can be replaced if need be.
 
 We also have the smaller 400 lumen version (https://amzn.to/38GVbov) and it has worked great as well.
+
+> Edit: I think I prefer the smaller one actually now.
 
 **Rechargeable Camping Lantern - https://amzn.to/39ecA8w**
 
