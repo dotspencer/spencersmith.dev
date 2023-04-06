@@ -67,12 +67,20 @@ class HomePage extends Component {
         <SectionTitle>Projects</SectionTitle>
         <MainContent>
           <Project
+            title="prepared.fyi"
+            desc="Find deals on emergency preparedness related products."
+            url="https://prepared.fyi/"
+            date="Apr, 2023"
+            category="Web App"
+            tags={['Node', 'Express', 'MySQL', 'React']}
+          />
+          <Project
             title="Wake Up Time"
             desc="Calculate optimal times to wake up based on your body's sleep cycles."
             url="https://wakeupti.me/"
             date="Sep, 2020"
             category="Web App"
-            tags={['html', 'css', 'js']}
+            tags={['HTML', 'CSS', 'JS']}
           />
           <Project
             title="Copy Arrow"
@@ -80,7 +88,7 @@ class HomePage extends Component {
             url="https://copyarrow.com/"
             date="Jun, 2020"
             category="Web App"
-            tags={['html', 'css', 'js']}
+            tags={['HTML', 'CSS', 'JS']}
           />
           <Project
             title="Emoji Launch"
@@ -88,7 +96,7 @@ class HomePage extends Component {
             url="https://emojilaunch.com/"
             date="Apr, 2020"
             category="Web App"
-            tags={['Node.js', 'express', 'PostgreSQL']}
+            tags={['Node', 'Express', 'PostgreSQL']}
           />
           <Project
             title="Music Mode for YouTube"
@@ -97,7 +105,7 @@ class HomePage extends Component {
             date="Dec, 2019"
             emphasis={"3,000+ active users"}
             category="Chrome Extension"
-            tags={['html', 'css', 'js']}
+            tags={['HTML', 'CSS', 'JS']}
           />
           <Project
             title="Effortless Reviews"
@@ -106,7 +114,7 @@ class HomePage extends Component {
             date="Oct, 2019"
             emphasis={"my largest scale project"}
             category="Web App"
-            tags={['Node.js', 'express', 'React.js', 'NGINX', 'Docker', 'MySQL', 'Flyway', 'Stripe']}
+            tags={['Node', 'Express', 'React', 'NGINX', 'Docker', 'MySQL', 'Flyway', 'Stripe']}
           />
           <Project
             title="Email Taco"
@@ -114,7 +122,7 @@ class HomePage extends Component {
             url="https://emailtaco.com/"
             date="Aug, 2019"
             category="Web App"
-            tags={['Node.js', 'express']}
+            tags={['Node', 'Express']}
           />
           <Project
             title="Words To Time"
@@ -123,7 +131,7 @@ class HomePage extends Component {
             date="Feb, 2019"
             emphasis={"1.1 million pageviews!"}
             category="Web App"
-            tags={['html', 'css', 'js']}
+            tags={['HTML', 'CSS', 'JS']}
           />
           <Project
             title="Keen HTML"
@@ -131,7 +139,7 @@ class HomePage extends Component {
             url="https://keenhtml.com/"
             date="Aug, 2018"
             category="Web App"
-            tags={['Node.js', 'express', 'React.js']}
+            tags={['Node', 'Express', 'React']}
           />
           <Project
             title="Taken Taken"
@@ -139,7 +147,7 @@ class HomePage extends Component {
             url="https://www.takentaken.com/"
             date="Feb, 2017"
             category="Web App"
-            tags={['Node.js', 'express']}
+            tags={['Node', 'Express']}
           />
           <Project
             title="Face Quiz"
@@ -147,7 +155,7 @@ class HomePage extends Component {
             url="https://facequiz.org/"
             date="Nov, 2016"
             category="Web App"
-            tags={['Node.js', 'express', 'React.js']}
+            tags={['Node', 'Express', 'React']}
           />
         </MainContent>
       </>
