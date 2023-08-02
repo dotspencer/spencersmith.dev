@@ -42,6 +42,12 @@ function HomePage() {
           tags={['HTML', 'CSS', 'JS']}
         />
         <Project
+          title="Shutterstock"
+          url="https://www.shutterstock.com/g/dotspencer"
+          date="Jul, 2020"
+          category="Photography"
+        />
+        <Project
           title="Copy Arrow"
           desc="Quick access to common arrow symbols for copy and pasting."
           url="https://copyarrow.com/"
