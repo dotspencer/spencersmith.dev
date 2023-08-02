@@ -168,7 +168,7 @@ class LogoMaze extends Component {
     path.setAttribute('stroke-width', `${LINE_WIDTH}px`);
     path.setAttribute('stroke-linecap', 'round');
     path.setAttribute('stroke-linejoin', 'round');
-    path.setAttribute('fill', 'none');
+    path.setAttribute('fill', 'transparent');
 
     // vertical
     if (src.x === dest.x) {
