@@ -43,6 +43,7 @@ function HomePage() {
         />
         <Project
           title="Shutterstock"
+          income="$20/mo"
           url="https://www.shutterstock.com/g/dotspencer"
           date="Jul, 2020"
           category="Photography"
@@ -75,6 +76,7 @@ function HomePage() {
         />
         <Project
           title="Effortless Reviews"
+          income="$15/mo"
           desc="Review generation and customer feedback platform for local businesses."
           url="https://effortlessreviews.com/"
           date="Oct, 2019"
@@ -92,6 +94,7 @@ function HomePage() {
         />
         <Project
           title="Words To Time"
+          income="$50/mo"
           desc="Convert text to how many minutes it will take to read aloud."
           url="https://wordstotime.com/"
           date="Feb, 2019"

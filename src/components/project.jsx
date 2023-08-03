@@ -74,19 +74,39 @@ const StyledDate = styled(Category)`
 //   padding: 0 6px;
 //   border-radius: 4px;
 // `;
+const TopLeft = styled.div`
+  display: flex;
+  gap: 10px;
+  align-items: center;
+`;
+const Discontinued = styled.div`
+  background-color: #ed143d47;
+  color: crimson;
+  padding: 2px 9px;
+  border-radius: 20px;
+  font-size: .8rem;
+`;
+const Income = styled(Discontinued)`
+  background-color: #3cb3714a;
+  color: mediumseagreen;
+`;
 
-const Project = ({ title, desc, url, category, tags, date, emphasis, dead, className }) => {
+const Project = ({ title, income, desc, url, category, tags, date, emphasis, dead, className }) => {
   return (
     <ProjectWrap className={className}>
       <Top>
-        <TitleLink href={url} target="_blank" dead={dead}>
-          {title}
-          {/* <img src="/img/external-link.svg"/> */}
-        </TitleLink>
+        <TopLeft>
+          <TitleLink href={url} target="_blank" dead={dead}>
+            {title}
+            {/* <img src="/img/external-link.svg"/> */}
+          </TitleLink>
+          {dead && <Discontinued>ended</Discontinued>}
+          {income && <Income>{income}</Income>}
+        </TopLeft>
         {/* {emphasis && (
           <Emphasis>{emphasis}</Emphasis>
         )} */}
-        <StyledDate>{date}</StyledDate>
+        <StyledDate>{date.split(', ').pop()}</StyledDate>
       </Top>
       {/* <Description>{desc}</Description> */}
       <TagWrap>
