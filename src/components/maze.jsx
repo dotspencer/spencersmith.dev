@@ -234,7 +234,8 @@ class LogoMaze extends Component {
     }
   };
 
-  paintIndex = (ctx, index, color, adjust, xStart, xSpace, yStart, ySpace) => {
+  // paintIndex = (ctx, index, color, adjust, xStart, xSpace, yStart, ySpace) => {
+  paintIndex = (ctx, index, color) => {
     const { row, column } = toRowColumn(index);
     const x = xStart + row * xSpace;
     const y = yStart + column * ySpace;
