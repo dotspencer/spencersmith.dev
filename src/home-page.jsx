@@ -76,7 +76,6 @@ function HomePage() {
         />
         <Project
           title="Effortless Reviews"
-          income="$15/mo"
           desc="Review generation and customer feedback platform for local businesses."
           url="https://effortlessreviews.com/"
           date="Oct, 2019"
