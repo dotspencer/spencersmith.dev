@@ -9,6 +9,10 @@ function HomePage() {
       <div className={styles['logo-wrap']}>
         <Maze/>
       </div>
+      <div className={styles['social-links']}>
+        <a href="https://www.linkedin.com/in/dotspencer" target='_blank' rel="noreferrer">LinkedIn</a>
+        <a href="https://stackoverflow.com/users/3498950" target='_blank' rel="noreferrer">StackOverflow</a>
+      </div>
       <div className={styles['projects-list']}>
         <Project
           title="Layoff Score"

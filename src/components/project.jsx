@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 const ProjectWrap = styled.div`
   padding: 12px 20px;
-  background-color: #00000029;
+  background-color: var(--dark-bg);
   margin: 15px 0;
   border-radius: 5px;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px;
