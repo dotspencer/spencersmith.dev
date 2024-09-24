@@ -50,6 +50,8 @@ const TitleLink = styled.a`
     text-decoration: line-through;
     color: initial;
     color: #999;
+    pointer-events: none;
+    cursor: default;
     &:hover {
       text-decoration: line-through;
     }
@@ -96,11 +98,11 @@ const Project = ({ title, income, desc, url, category, tags, date, emphasis, dea
     <ProjectWrap className={className}>
       <Top>
         <TopLeft>
-          <TitleLink href={url} target="_blank" dead={dead}>
+          <TitleLink href={dead ? '' : url} target="_blank" dead={dead}>
             {title}
             {/* <img src="/img/external-link.svg"/> */}
           </TitleLink>
-          {dead && <Discontinued>ended</Discontinued>}
+          {dead && <Discontinued>retired</Discontinued>}
           {income && <Income>{income}</Income>}
         </TopLeft>
         {/* {emphasis && (

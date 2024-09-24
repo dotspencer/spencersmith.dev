@@ -15,6 +15,14 @@ function HomePage() {
       </div>
       <div className={styles['projects-list']}>
         <Project
+          title="Diff Text"
+          desc="Compare two blocks of text and see the differences."
+          url="https://difftext.com"
+          date="Sep, 2024"
+          category="Web App"
+          tags={['Node', 'Express', 'React']}
+        />
+        <Project
           title="Layoff Score"
           desc="Find deals on emergency preparedness related products."
           url="https://layoffscore.com"
@@ -31,6 +39,7 @@ function HomePage() {
           tags={['Node', 'Express', 'MySQL', 'React']}
         />
         <Project
+          dead
           title="Keen Preparedness"
           desc="Find deals on emergency preparedness related products."
           url="http://keenpreparedness.com"
@@ -47,7 +56,6 @@ function HomePage() {
         />
         <Project
           title="Shutterstock"
-          income="$20/mo"
           url="https://www.shutterstock.com/g/dotspencer"
           date="Jul, 2020"
           category="Photography"
@@ -88,6 +96,7 @@ function HomePage() {
           tags={['Node', 'Express', 'React', 'NGINX', 'Docker', 'MySQL', 'Flyway', 'Stripe']}
         />
         <Project
+          dead
           title="Email Taco"
           desc="Dynamic GIF countdown timers for expring offers."
           url="https://emailtaco.com/"
