@@ -40,6 +40,7 @@ function HomePage() {
         />
         <Project
           title="prepared.fyi"
+          dead
           desc="Find deals on emergency preparedness related products."
           url="https://prepared.fyi/"
           date="Apr, 2023"
