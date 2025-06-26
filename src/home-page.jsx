@@ -15,6 +15,14 @@ function HomePage() {
       </div>
       <div className={styles['projects-list']}>
         <Project
+          title="Title Thumb"
+          desc="The easiest way to preview your thumbnails for YouTube."
+          url="https://titlethumb.com"
+          date="Jun, 2025"
+          category="Web App"
+          tags={['React']}
+        />
+        <Project
           title="Diff Text"
           desc="Compare two blocks of text and see the differences."
           url="https://difftext.com"
@@ -39,8 +47,8 @@ function HomePage() {
           tags={['Node', 'Express', 'MySQL', 'React']}
         />
         <Project
-          dead
           title="Keen Preparedness"
+          dead
           desc="Find deals on emergency preparedness related products."
           url="http://keenpreparedness.com"
           date="Apr, 2023"
@@ -54,12 +62,12 @@ function HomePage() {
           category="Web App"
           tags={['HTML', 'CSS', 'JS']}
         />
-        <Project
+        {/* <Project
           title="Shutterstock"
           url="https://www.shutterstock.com/g/dotspencer"
           date="Jul, 2020"
           category="Photography"
-        />
+        /> */}
         <Project
           title="Copy Arrow"
           desc="Quick access to common arrow symbols for copy and pasting."
@@ -69,8 +77,8 @@ function HomePage() {
           tags={['HTML', 'CSS', 'JS']}
         />
         <Project
-          dead
           title="Emoji Launch"
+          dead
           desc="A micro product launch website."
           url="https://emojilaunch.com/"
           date="Apr, 2020"
@@ -88,6 +96,7 @@ function HomePage() {
         />
         <Project
           title="Effortless Reviews"
+          dead
           desc="Review generation and customer feedback platform for local businesses."
           url="https://effortlessreviews.com/"
           date="Oct, 2019"
@@ -96,8 +105,8 @@ function HomePage() {
           tags={['Node', 'Express', 'React', 'NGINX', 'Docker', 'MySQL', 'Flyway', 'Stripe']}
         />
         <Project
-          dead
           title="Email Taco"
+          dead
           desc="Dynamic GIF countdown timers for expring offers."
           url="https://emailtaco.com/"
           date="Aug, 2019"
@@ -106,7 +115,7 @@ function HomePage() {
         />
         <Project
           title="Words To Time"
-          income="$50/mo"
+          // income="$50/mo"
           desc="Convert text to how many minutes it will take to read aloud."
           url="https://wordstotime.com/"
           date="Feb, 2019"
@@ -115,8 +124,8 @@ function HomePage() {
           tags={['HTML', 'CSS', 'JS']}
         />
         <Project
-          dead
           title="Keen HTML"
+          dead
           desc="Interactive lessons to learn HTML."
           url="https://keenhtml.com/"
           date="Aug, 2018"
@@ -124,8 +133,8 @@ function HomePage() {
           tags={['Node', 'Express', 'React']}
         />
         <Project
-          dead
           title="Taken Taken"
+          dead
           desc="Simple domain name availability checker."
           url="https://www.takentaken.com/"
           date="Feb, 2017"
@@ -133,8 +142,8 @@ function HomePage() {
           tags={['Node', 'Express']}
         />
         <Project
-          dead
           title="Face Quiz"
+          dead
           desc="Create your own quizzes to help learn names and faces."
           url="https://facequiz.org/"
           date="Nov, 2016"
