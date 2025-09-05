@@ -15,6 +15,14 @@ function HomePage() {
       </div>
       <div className={styles['projects-list']}>
         <Project
+          title="Super Web Tools"
+          desc=""
+          url="https://superweb.tools"
+          date="Sep, 2025"
+          category="Web App"
+          tags={['React', 'Astro']}
+        />
+        <Project
           title="Title Thumb"
           desc="The easiest way to preview your thumbnails for YouTube."
           url="https://titlethumb.com"
