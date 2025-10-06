@@ -15,6 +15,14 @@ function HomePage() {
       </div>
       <div className={styles['projects-list']}>
         <Project
+          title="Acrylic Match"
+          desc=""
+          url="https://acrylicmatch.com/ff6347"
+          date="Oct, 2025"
+          category="Web App"
+          tags={['Next.js', 'React']}
+        />
+        <Project
           title="Super Web Tools"
           desc=""
           url="https://superweb.tools"
