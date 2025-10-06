@@ -63,14 +63,14 @@ function HomePage() {
           category="Web App"
           tags={['Node', 'Express', 'MySQL', 'React']}
         />
-        <Project
+        {/* <Project
           title="Keen Preparedness"
           dead
           desc="Find deals on emergency preparedness related products."
           url="http://keenpreparedness.com"
           date="Apr, 2023"
           category="Etsy Store"
-        />
+        /> */}
         <Project
           title="Wake Up Time"
           desc="Calculate optimal times to wake up based on your body's sleep cycles."
