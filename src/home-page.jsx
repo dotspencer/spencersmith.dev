@@ -15,6 +15,22 @@ function HomePage() {
       </div>
       <div className={styles['projects-list']}>
         <Project
+          title="pzzl_"
+          desc=""
+          url="https://pzzl.dev"
+          date="Oct, 2025"
+          category="Web App"
+          tags={['Astro', 'React']}
+        />
+        <Project
+          title="Made in USA Solar"
+          desc=""
+          url="https://madeinusa.solar"
+          date="Oct, 2025"
+          category="Web App"
+          tags={['Next.js', 'React']}
+        />
+        <Project
           title="Acrylic Match"
           desc=""
           url="https://acrylicmatch.com/ff6347"
@@ -53,6 +69,7 @@ function HomePage() {
           date="Jul, 2023"
           category="Web App"
           tags={['Node', 'Express', 'React']}
+          dead
         />
         <Project
           title="prepared.fyi"
