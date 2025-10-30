@@ -15,6 +15,15 @@ function HomePage() {
       </div>
       <div className={styles['projects-list']}>
         <Project
+          title="Emoji Launch"
+          desc="Launch your product with a single emoji"
+          url="https://emojilaunch.com"
+          date="Oct, 2025"
+          category="Web App"
+          tags={['Next.js', 'React']}
+          v2
+        />
+        <Project
           title="pzzl_"
           desc=""
           url="https://pzzl.dev"
@@ -24,7 +33,7 @@ function HomePage() {
         />
         <Project
           title="Made in USA Solar"
-          desc=""
+          desc="Directory of American made solar equipment"
           url="https://madeinusa.solar"
           date="Oct, 2025"
           category="Web App"
@@ -32,7 +41,7 @@ function HomePage() {
         />
         <Project
           title="Acrylic Match"
-          desc=""
+          desc="Find matching acrylic paints for any hex color"
           url="https://acrylicmatch.com/ff6347"
           date="Oct, 2025"
           category="Web App"
@@ -40,7 +49,7 @@ function HomePage() {
         />
         <Project
           title="Super Web Tools"
-          desc=""
+          desc="Free online tools for just about everything"
           url="https://superweb.tools"
           date="Sep, 2025"
           category="Web App"
@@ -48,7 +57,7 @@ function HomePage() {
         />
         <Project
           title="Title Thumb"
-          desc="The easiest way to preview your thumbnails for YouTube."
+          desc="Instant preview for YouTube thumbnails"
           url="https://titlethumb.com"
           date="Jun, 2025"
           category="Web App"
@@ -56,7 +65,7 @@ function HomePage() {
         />
         <Project
           title="Diff Text"
-          desc="Compare two blocks of text and see the differences."
+          desc="Dead simple text comparison"
           url="https://difftext.com"
           date="Sep, 2024"
           category="Web App"
@@ -90,7 +99,7 @@ function HomePage() {
         /> */}
         <Project
           title="Wake Up Time"
-          desc="Calculate optimal times to wake up based on your body's sleep cycles."
+          desc="Easy wake up time calculator"
           url="https://wakeupti.me/"
           date="Sep, 2020"
           category="Web App"
@@ -104,7 +113,7 @@ function HomePage() {
         /> */}
         <Project
           title="Copy Arrow"
-          desc="Quick access to common arrow symbols for copy and pasting."
+          desc="Quickly copy arrow symbols"
           url="https://copyarrow.com/"
           date="Jun, 2020"
           category="Web App"
@@ -121,7 +130,7 @@ function HomePage() {
         />
         <Project
           title="Music Mode for YouTube"
-          desc="A distraction-free way to listen to music on YouTube."
+          desc="Listen to music distraction-free on YouTube"
           url="https://chrome.google.com/webstore/detail/music-mode-for-youtube/jeieekjcmkhfffleemgbiooooockfmha"
           date="Dec, 2019"
           emphasis={'3,000+ active users'}
@@ -150,7 +159,7 @@ function HomePage() {
         <Project
           title="Words To Time"
           // income="$50/mo"
-          desc="Convert text to how many minutes it will take to read aloud."
+          desc="Convert word count to reading time"
           url="https://wordstotime.com/"
           date="Feb, 2019"
           emphasis={'1.1 million pageviews!'}

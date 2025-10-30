@@ -3,11 +3,14 @@ import styled from 'styled-components';
 const ProjectWrap = styled.div`
   padding: 12px 20px;
   background-color: var(--dark-bg);
-  margin: 15px 0;
+  margin: 20px 0;
   border-radius: 5px;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px;
   transition: all 0.2s;
   overflow: hidden;
+  ${p => p.$fade && (`
+    opacity: 0.7;
+  `)};
 `;
 const Top = styled.div`
   display: flex;
@@ -50,6 +53,8 @@ const TitleLink = styled.a`
     text-decoration: line-through;
     color: initial;
     color: #999;
+    // opacity: 0.8;
+    font-weight: 400;
     pointer-events: none;
     cursor: default;
     &:hover {
@@ -93,9 +98,9 @@ const Income = styled(Discontinued)`
   color: mediumseagreen;
 `;
 
-const Project = ({ title, income, desc, url, category, tags, date, emphasis, dead, className }) => {
+const Project = ({ title, income, desc, url, category, tags, date, emphasis, dead, v2, className }) => {
   return (
-    <ProjectWrap className={className}>
+    <ProjectWrap className={className} $fade={dead}>
       <Top>
         <TopLeft>
           <TitleLink href={dead ? '' : url} target="_blank" dead={dead}>
@@ -104,6 +109,7 @@ const Project = ({ title, income, desc, url, category, tags, date, emphasis, dea
           </TitleLink>
           {dead && <Discontinued>retired</Discontinued>}
           {income && <Income>{income}</Income>}
+          {v2 && <Income>revived</Income>}
         </TopLeft>
         {/* {emphasis && (
           <Emphasis>{emphasis}</Emphasis>
@@ -112,7 +118,9 @@ const Project = ({ title, income, desc, url, category, tags, date, emphasis, dea
       </Top>
       {/* <Description>{desc}</Description> */}
       <TagWrap>
-        <Category>{category}</Category>
+        {desc && !dead && (
+          <Category>{desc}</Category>
+        )}
         {/* {tags && tags.map((t, i) => (
           <Tag key={i}>{t}</Tag>
         ))} */}
