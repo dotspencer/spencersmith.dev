@@ -9,6 +9,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.15.3"
+    "@fontsource-variable/inter": "^5.2.8",
+    "astro": "^5.15.3",
+    "sass-embedded": "^1.93.2"
   }
 }
