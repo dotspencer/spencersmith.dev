@@ -15,6 +15,14 @@ function HomePage() {
       </div>
       <div className={styles['projects-list']}>
         <Project
+          title="Drop Solar"
+          desc="Price history and alerts for solar equipment"
+          url="https://drop.solar/"
+          date="Nov, 2025"
+          category="Web App"
+          tags={['Next.js', 'React']}
+        />
+        <Project
           title="Solar Specs"
           desc="Solar equipment specs compared"
           url="https://solarspecs.co"
