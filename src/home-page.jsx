@@ -22,15 +22,15 @@ function HomePage() {
           category="Web App"
           tags={['Next.js', 'React']}
         />
-        <Project
+        {/* <Project
           title="Solar Specs"
           desc="Solar equipment specs compared"
           url="https://solarspecs.co"
           date="Nov, 2025"
           category="Web App"
           tags={['Next.js', 'React']}
-        />
-        <Project
+        /> */}
+        {/* <Project
           title="Emoji Launch"
           desc="Launch your product with a single emoji"
           url="https://emojilaunch.com"
@@ -38,7 +38,7 @@ function HomePage() {
           category="Web App"
           tags={['Next.js', 'React']}
           v2
-        />
+        /> */}
         <Project
           title="pzzl_"
           desc=""
@@ -47,14 +47,14 @@ function HomePage() {
           category="Web App"
           tags={['Astro', 'React']}
         />
-        <Project
+        {/* <Project
           title="Made in USA Solar"
           desc="Directory of American made solar equipment"
           url="https://madeinusa.solar"
           date="Oct, 2025"
           category="Web App"
           tags={['Next.js', 'React']}
-        />
+        /> */}
         <Project
           title="Acrylic Match"
           desc="Find matching acrylic paints for any hex color"
