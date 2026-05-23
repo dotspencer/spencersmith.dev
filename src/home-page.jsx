@@ -152,6 +152,7 @@ function HomePage() {
           emphasis={'3,000+ active users'}
           category="Chrome Extension"
           tags={['HTML', 'CSS', 'JS']}
+          dead
         />
         <Project
           title="Effortless Reviews"
